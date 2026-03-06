@@ -38,7 +38,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Radimaan/Radimaan/main/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Radimaan/Radimaan/output/github-contribution-grid-snake.svg" />
 
 </p>
 
