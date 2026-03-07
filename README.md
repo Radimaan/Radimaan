@@ -1,5 +1,5 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,100:87CEEB&height=220&section=header&text=Radimaan%20%E2%80%95%20VIP%20Developer&fontSize=45&fontColor=ffd700&fontAlignY=35&desc=Professional%20&descAlign=60&descAlignY=70&animation=twinkling)
-<h1 align="center">Hi 👋, I'm Radimaan</h1>
+<h1 align="center">Hi 👋, I'm Ridwaan Hassan</h1>
 <h3 align="center">💻 Passionate Developer | 🚀 Building Cool Projects</h3>
 
 ---
